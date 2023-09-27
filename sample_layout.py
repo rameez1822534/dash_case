@@ -8,7 +8,9 @@ import pandas as pd
 
 # Sample data
 
- 
+x_values = df['employee active'] 
+x_values = df['emplyee inactive']
+y_values = df['employee packing']
 
 data = {'X':[1,2,3,4,5],
 
